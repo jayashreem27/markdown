@@ -12,6 +12,6 @@ Skills| Information
 -----|-----
 Web Technology|Knowledge of MERN 
 
-[](https://github.com/jayashreem27)
+[My github link](https://github.com/jayashreem27)
 
 <h1 align="center">Hello</h1>
